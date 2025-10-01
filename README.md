@@ -21,3 +21,7 @@
     <img src="https://img.shields.io/github/license/jolinterianu/jolinterianu">
   </a>
 </h3>
+
+# Welcome to my profile!
+I am the general secretary of [Jolinph](<https://jolinph.github.io/>), and also partake in developing some projects for Jolinph!
+I know *very little* HTML, CSS, JS, and Python…

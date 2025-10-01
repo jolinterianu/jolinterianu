@@ -4,8 +4,13 @@
   </a>
 </h3>
 
-![:name](https://count.getloli.com/@visitors?name=visitors&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+<h3 align="center">
+  <a href="https://github.com/journey-ad/Moe-Counter">
+    <img src="https://count.getloli.com/@jolinterianu?theme=original-new">
+  </a>
+</h3>
 
+<h3 align="center">
   <a href="https://github.com/om3ga6400?tab=followers">
     <img src="https://img.shields.io/github/followers/om3ga6400?style=fflat-square&logo=github">
   </a>
@@ -15,3 +20,4 @@
   <a href="https://raw.githubusercontent.com/om3ga6400/om3ga6400/refs/heads/main/LICENSE">
     <img src="https://img.shields.io/github/license/om3ga6400/om3ga6400">
   </a>
+</h3>

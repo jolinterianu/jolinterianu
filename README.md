@@ -12,12 +12,12 @@
 
 <h3 align="center">
   <a href="https://github.com/om3ga6400?tab=followers">
-    <img src="https://img.shields.io/github/followers/om3ga6400?style=fflat-square&logo=github">
+    <img src="https://img.shields.io/github/followers/jolinterianu?style=fflat-square&logo=github">
   </a>
   <a href="https://shields.io/">
-    <img src="https://img.shields.io/github/stars/om3ga6400?style=fflat-square&color=yellow&logo=github">
+    <img src="https://img.shields.io/github/stars/jolinterianu?style=fflat-square&color=yellow&logo=github">
   </a>
-  <a href="https://raw.githubusercontent.com/om3ga6400/om3ga6400/refs/heads/main/LICENSE">
-    <img src="https://img.shields.io/github/license/om3ga6400/om3ga6400">
+  <a href="https://raw.githubusercontent.com/jolinterianu/jolinterianu/refs/heads/main/LICENSE">
+    <img src="https://img.shields.io/github/license/jolinterianu/jolinterianu">
   </a>
 </h3>

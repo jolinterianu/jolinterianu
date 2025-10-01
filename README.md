@@ -23,5 +23,14 @@
 </h3>
 
 # Welcome to my profile!
-I am the general secretary of [Jolinph](<https://jolinph.github.io/>), and also partake in developing some projects for Jolinph!
-I know *very little* HTML, CSS, JS, and Python…
+I am the general secretary of [Jolinph](<https://jolinph.github.io/>), and also partake in developing some projects for Jolinph! See more lore info [here](<https://jolinph.github.io/people/lin-jova/>). Now, **what languages do I know?** A few and only a *very little* of them:
+* HTML/CSS
+* JS
+* Python
+
+I would hesitate before asking me to do *anything* heavily programming focused…
+
+## Projects (on GitHub)
+### Current
+* [Jolinph Website](<https://jolinph.github.io/>)
+### Past

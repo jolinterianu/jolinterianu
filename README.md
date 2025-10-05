@@ -23,12 +23,7 @@
 </h3>
 
 # Welcome to my profile!
-I am the general secretary of [Jolinph](<https://jolinph.github.io/>), and also partake in developing some projects for Jolinph! See more lore info [here](<https://jolinph.github.io/people/lin-jova/>). Now, **what languages do I know?** A few and only a *very little* of them:
-* HTML/CSS
-* JS
-* Python
-
-I would hesitate before asking me to do *anything* heavily programming focused…
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In vitae turpis eget urna ullamcorper luctus. Morbi nec est purus. Sed rhoncus mauris vel odio cursus semper. Cras pretium pharetra augue ut vestibulum. Quisque auctor, elit a faucibus ornare, felis mauris fermentum ante, eu rhoncus tortor eros quis lorem. Morbi blandit enim eget venenatis tempus. Vestibulum luctus consectetur felis, sagittis cursus massa ornare at. Aenean sed enim nunc. Donec efficitur felis dolor, vitae pellentesque dui pretium et. Nullam rhoncus nibh sed molestie pellentesque. Mauris sit amet justo auctor nunc malesuada dapibus. Aenean vel odio lacinia, sollicitudin ante sit amet, iaculis justo. Proin mollis nulla augue, quis faucibus orci condimentum ut. 
 
 ## Projects (on GitHub)
 ### Current
